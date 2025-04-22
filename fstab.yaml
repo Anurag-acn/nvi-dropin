@@ -1,6 +1,6 @@
 mountpoints:
   /:
-    url: https://author-p153606-e1610127.adobeaemcloud.com/bin/franklin.delivery/anurag-acn/nvi-ue/main
+    url: https://author-p153606-e1610127.adobeaemcloud.com/bin/franklin.delivery/anurag-acn/nvi-dropin/main
     type: markup
 
 folders:
