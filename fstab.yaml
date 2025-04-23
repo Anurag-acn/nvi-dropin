@@ -1,7 +1,5 @@
 mountpoints:
-  /:
-    url: https://author-p153606-e1610127.adobeaemcloud.com/bin/franklin.delivery/anurag-acn/nvi-dropin/main
-    type: markup
+  /: https://drive.google.com/drive/folders/1eRXDTi5nesDNvVF8giqiMTH9nmLhu5Zs
 
 folders:
   /products/: /products/default
